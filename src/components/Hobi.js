@@ -6,7 +6,7 @@ export default class Hobi extends Component {
       <div>
         <section className="container-fluid resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
         <div className="w-100">
-          <h2 className="mb-5">Hobbies - Riacup</h2>
+          <h2 className="mb-5">Riacup - Hobbies</h2>
           <ul className="list-inline dev-icons">
             <li className="list-inline-item">
             <i class="fal fa-music" />

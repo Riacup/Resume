@@ -9,3 +9,12 @@ element.style {
     padding-left: 15% !important;
     width: 80% !important;
 }
+
+.colorlib-skills {
+  padding-left: 15% !important;
+    width: 80% !important;
+}
+
+.progress-bar {
+  background-color: brown;
+}

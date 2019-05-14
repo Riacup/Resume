@@ -21,13 +21,13 @@ export default class Navbar extends Component {
               <Link className="nav-link js-scroll-trigger" to="/about">About</Link>
             </li>
             <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/skills">Skills</Link>
+            </li>
+            <li className="nav-item">
               <Link className="nav-link js-scroll-trigger" to="/experience">Experience</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link js-scroll-trigger" to="/education">Education</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link js-scroll-trigger" to="/skills">Skills</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link js-scroll-trigger" to="/hobi">Hobbies</Link>

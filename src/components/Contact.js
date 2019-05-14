@@ -6,7 +6,7 @@ export default class Contact extends Component {
       <div>
         <section className="container-fluid resume-section p-3 p-lg-5 d-flex align-items-center" id="contact">
         <div className="w-100">
-          <h2 className="mb-5">Contact - Riacup</h2>
+          <h2 className="mb-5">Riacup - Contact</h2>
           <div className="row">
             <div className="col-lg-3 ml-auto text-center">
               <i className="fas fa-phone fa-3x mb-3 text-muted" />
